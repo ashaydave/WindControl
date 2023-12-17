@@ -13,4 +13,4 @@ If you'd like to build the solution yourself:
 5. Plugin will be named as audioplugin_WindControl.dll.
 6. Drag the audioplugin_WindControl.dll into Unity > Assets > Plugins folder.
 
-[MacOS] Drag and drop the .bundle folder into your Plugins folder.
+[MacOS] After building in Xcode, drag and drop the .bundle folder into your Plugins folder.
