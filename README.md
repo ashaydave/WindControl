@@ -1,4 +1,6 @@
 A wind sound generator plugin with intensity, amplitude, resonance, speed, pan, whistle and howl controls.
+<img width="223" alt="image" src="https://github.com/ashaydave/WindControl/assets/112194962/d232af78-70f1-44ea-8ef6-f4954be0a7d5">
+
 [WINDOWS] Just drag and drop the .dll file into Unity > Assets > Plugins folder in your Unity project, then add the effect on your desired Audio Mixer track.
 
 If you'd like to build the solution yourself:
